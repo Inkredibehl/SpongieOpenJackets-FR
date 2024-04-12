@@ -1,4 +1,8 @@
 ItemName_FR = {
+	ItemName_Base.Jacket_WhiteOPEN = "Veste",
+	ItemName_Base.JacketLong_Random = "Veste en cuir",
+
+
 	ItemName_Base.JacketLong_DoctorOPEN = "Blouse médicale",
 	ItemName_Base.JacketLong_RandomOPEN = "Veste en cuir",
 	ItemName_Base.JacketLong_SantaOPEN = "Manteau de Père Noël",
