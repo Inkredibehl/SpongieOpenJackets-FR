@@ -1,0 +1,9 @@
+Recipes_FR = {
+	Recipe_Make_Jacket_BlackVest = "Retirer les manches",
+	Recipe_Make_Jacket_LeatherWildRacoonsVest = "Retirer les manches",
+	Recipe_Make_Jacket_LeatherIronRodentVest = "Retirer les manches",
+	Recipe_Make_Jacket_LeatherBarrelDogsVest = "Retirer les manches",
+	
+	Recipe_Make_Shirt_LumberjackVest = "Retirer les manches",
+	Recipe_Make_Shirt_DenimVest = "Retirer les manches",
+}
